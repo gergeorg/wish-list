@@ -18,7 +18,7 @@
   margin-bottom: 24px;
 }
 
-.hero__description {
+.hero__descr {
   max-width: 940px;
   font-size: 46px;
   text-align: center;
@@ -31,7 +31,7 @@
     margin-bottom: 12px;
   }
 
-  .hero__description {
+  .hero__descr {
     font-size: 42px;
     max-width: 860px;
     margin-bottom: 66px;
@@ -48,7 +48,7 @@
     margin-bottom: 0;
   }
 
-  .hero__description {
+  .hero__descr {
     font-size: 36px;
     max-width: 770px;
     margin-bottom: 32px;
@@ -60,7 +60,7 @@
     font-size: 118px;
   }
 
-  .hero__description {
+  .hero__descr {
     font-size: 26px;
     max-width: 590px;
     margin-bottom: 100px;
@@ -76,7 +76,7 @@
     justify-content: center;
   }
 
-  .hero__description {
+  .hero__descr {
     font-size: 18px;
     margin-bottom: 54px;
   }
